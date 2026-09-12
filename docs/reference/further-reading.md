@@ -70,6 +70,7 @@ Curated links to official docs, deep-dives, and community resources for Claude C
 ## Workflows & tutorials
 
 - [Claude Code workflows (community)](https://github.com/OneRedOak/claude-code-workflows)
+- [Mixed-harness orchestration with AgentGrid](https://agentgrid.sh/docs/guides/orchestrating-agents) — coordinate Claude Code and other coding harnesses through visible workers, inspect their output, reuse reviewers, and recover sessions after a restart.
 - [Fast Mode analysis (Simon Willison, Feb 2026)](https://simonwillison.net/2026/Feb/7/claude-fast-mode/)
 
 ---
